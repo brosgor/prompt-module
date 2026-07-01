@@ -1,0 +1,6 @@
+# Atlántida SDD artifacts
+.atl/
+
+# Python
+__pycache__/
+*.pyc
